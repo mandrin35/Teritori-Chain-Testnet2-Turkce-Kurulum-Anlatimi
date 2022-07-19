@@ -2,7 +2,7 @@
 
 ![Banner!](assets/banner.png)
 
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/teritori)
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/PKd938HbpR)
 [![Go Report
 Card](https://goreportcard.com/badge/github.com/TERITORI/teritori-chain?style=flat-square)](https://goreportcard.com/report/github.com/TERITORI/teritori-chain)
 [![Version](https://img.shields.io/github/tag/TERITORI/teritori-chain.svg?style=flat-square)](https://github.com/TERITORI/teritori-chain/releases/latest)
@@ -112,6 +112,7 @@ journalctl -u teritorid.service -f -n 100
 ```  
 
 ## Cüzdan Oluşturma
+
 ### Yeni Cüzdan Oluşturma
 `$WALLET` bölümünü değiştirmiyoruz kurulumun başında cüzdanımıza isim belirledik.
 ```shell 
@@ -126,7 +127,7 @@ teritorid keys add $WALLET --recover
 BU AŞAMADAN SONRA NODE'UMUZUN EŞLEŞMESİNİ BEKLİYORUZ.
 
 ## Faucet / Musluk
-Test token almak için Discord'da [#faucet](https://discord.gg/teritori) kanalından şu şekilde `$request CUZDAN_ADRESINIZ` mesaj atıyoruz.
+Test token almak için Discord'da [#faucet](https://discord.gg/PKd938HbpR) kanalından şu şekilde `$request CUZDAN_ADRESINIZ` mesaj atıyoruz.
 
 ## Cüzdan Bakiyesini Kontrol Etme
 ```shell
