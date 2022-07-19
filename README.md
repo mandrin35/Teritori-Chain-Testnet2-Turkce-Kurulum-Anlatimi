@@ -90,7 +90,7 @@ After=network-online.target
 
 [Service]
 User=$USER
-ExecStart=/home/$USER/go/bin/teritorid start
+ExecStart=/$USER/go/bin/teritorid start
 Restart=on-failure
 RestartSec=3
 LimitNOFILE=4096
@@ -106,11 +106,6 @@ systemctl enable teritorid
 systemctl daemon-reload
 systemctl restart teritorid
 ```  
-
-## Node'u Başlatma
-```shell
-teritorid start
-```
 
 ## Logları Kontrol Etme
 ```shell
