@@ -38,7 +38,7 @@ go version
 
 Yukarıdaki son kodun çıktısı aşağıdaki gibiyse işlem tamamdır.
 ```shell
-#Should return go version go1.18.3 linux/amd64
+go version go1.18.3 linux/amd64
 ``` 
 
 ## Değişkenleri Yükleme
@@ -61,12 +61,12 @@ teritorid version
 ```
 Yukarıdaki kodun çıktısı aşağıdaki gibiyse kurulum gerçekleşmiştir.
 ```shell
-#Should return  teritori-testnet-v2-0f4e5cb1d529fa18971664891a9e8e4c114456c6
+teritori-testnet-v2-0f4e5cb1d529fa18971664891a9e8e4c114456c6
 ```  
 
 ## Uygulamayı Başlatma
 ```shell
-teritorid init $NODENAME --chain-id $CHAIN_ID
+teritorid init "$NODENAME" --chain-id "$CHAIN_ID"
 ```  
 
 ## PEERS Ekleme
