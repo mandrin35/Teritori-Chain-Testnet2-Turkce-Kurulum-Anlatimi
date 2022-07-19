@@ -42,8 +42,9 @@ go version go1.18.3 linux/amd64
 ``` 
 
 ## Değişkenleri Yükleme
-$NODENAME validator adınız
-$WALLET sei cüzdan adınız
+* Aşağıda değiştirmeniz gereken yerler belirtilmiştir.
+ * `$NODENAME` validator adınız
+ * `$WALLET` sei cüzdan adınız
 ```shell
 echo "export NODENAME=$NODENAME"  >> $HOME/.bash_profile
 echo "export WALLET=$WALLET" >> $HOME/.bash_profile
