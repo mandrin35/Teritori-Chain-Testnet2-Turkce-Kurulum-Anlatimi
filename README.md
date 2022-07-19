@@ -224,7 +224,7 @@ curl icanhazip.com
 
 ### Peer Adresinizi Öğrenme
 ```shell
-echo "$(seid tendermint show-node-id)@$(curl ifconfig.me):26656"
+echo "$(teritorid tendermint show-node-id)@$(curl ifconfig.me):26656"
 ```
 
 ### Cüzdanların Listesine Bakma
