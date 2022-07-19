@@ -106,6 +106,11 @@ systemctl daemon-reload
 systemctl restart teritorid
 ```  
 
+## Node'u Başlatma
+```shell
+teritorid start
+```
+
 ## Logları Kontrol Etme
 ```shell
 journalctl -u teritorid.service -f -n 100
