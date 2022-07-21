@@ -1,4 +1,4 @@
-# Teritori Chain Testnet-2 Türkçe Kurulum Rehberi
+# Teritori Chain Testnet-2 Türkçe Anlatım Rehberi
 
 ![Banner!](assets/banner.png)
 
