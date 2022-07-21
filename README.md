@@ -171,7 +171,7 @@ Sei Discord [#role-request](https://discord.gg/DPE4UHrR4k) kanalından validator
 https://teritori.explorers.guru/
 
 
-## DAHA FAZLA SORUNUZ VARSA SEİ TÜRKİYE TELEGRAM GRUBU:
+## DAHA FAZLA SORUNUZ VARSA TERITORI TÜRKİYE TELEGRAM GRUBU:
 
 [Teritori Türkiye Telegram Sayfası](https://t.me/TeritoriTurkish)
 
